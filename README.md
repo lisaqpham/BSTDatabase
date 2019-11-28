@@ -1,0 +1,2 @@
+# BSTDatabase
+Student / Faculty database
